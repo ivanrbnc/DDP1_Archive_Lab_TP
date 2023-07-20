@@ -1,0 +1,11 @@
+
+Q1 : 		Kesulitan dan/atau kendala saat melakukan instalasi python dan pengerjaan Lab00 jika ada.
+Jawaban Q1 : 	Setelah mengerjakan lab00, saya belum merasakan kesulitan dan/atau kendala saat melakukan instalasi Python dan pengerjaan Lab00.
+
+Q2 : 		Nilai kemampuan programming kamu dari skala 1 (tidak bisa sama sekali) sampai 5 (sangat mahir) disertai dengan alasan.
+Jawaban Q2 : 	Untuk nilai kemampuan programming dari skala 1 sampai 5, mungkin saya akan mengambil angka 2. 
+		Saya sudah lumayan memahami coding, tapi saya rasa itu masih dasar.
+
+Q3 : 		Ekspektasi dan harapan untuk asisten dosen (asdos) DDP1.
+Jawaban Q3 : 	Ekspektasi dan harapan saya untuk kakak-kakak asdos ke depannya, ialah bisa membantu saya untuk tetap berdiri pada mata kuliah DDP 1.
+		Selain itu, mungkin saya berekspektasi kakak-kakak asdos untuk sesekali mengadakan pop quiz berhadiah untuk memicu minat belajar lebih.

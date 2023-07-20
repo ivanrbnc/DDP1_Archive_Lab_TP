@@ -1,0 +1,1 @@
+open("stopwords.txt", encoding="utf-8")
